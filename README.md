@@ -1,5 +1,3 @@
-# -Nike-Website-Clone
-
 # 👟 Nike Website Clone
 
 ## 📌 Project Overview
